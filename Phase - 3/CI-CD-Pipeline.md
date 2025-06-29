@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------------------------
+-------------------------------- Project Developed by // TUSHAR SRIVASTAVA ---------------------------------
+--------------------- Hire Me // Mobile No.: 8299357488 && Email: tusharrbl@gmail.com ----------------------
+---------------------------- Portfolio // https://www.tusharsrivastava.tech --------------------------------
+-------------------------- LinkedIn // https://www.linkedin.com/in/tusharrblgh -----------------------------
+----------------------------- GitHub // https://www.github.com/tusharrblgh ---------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------ ⚠️ Legal Notice – Copyright Warning (India) --------------------------------
+-------- This project is protected under the Copyright Act, 1957 (as amended) and other applicable ---------
+--------------------------------- intellectual property laws of India. -------------------------------------
+------------------ Any unauthorized copying, reproduction, modification, distribution, or ------------------
+-------------------------- commercial use of this work, in whole or in part, -------------------------------
+------------ without the explicit written permission of the author is strictly prohibited. -----------------
+------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------
+--------------------------------------------- Review Phase - 3 ---------------------------------------------
+Create Continuous Integration and Continuous Deployment (CI/CD) Pipeline via GO Syntax.
+
+Taking Security measures side by side.
+
+Configure Mail Notification (Success or Fail Email notification will send).
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+Link for Syntax based Script:
+------------------------------------------------------------------------------------------------------------
+
